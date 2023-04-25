@@ -10,6 +10,6 @@
 	"syntax": "python",
 	"duration" : 2,
     	"projectType": "project",
-	"autoStart: false,
+	"autoStart": false,
 	"description" : "Use your numpy, pandas and matplotib skills to practice a little about calculus and algebra"
 }
