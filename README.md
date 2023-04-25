@@ -8,7 +8,7 @@ Inside this repository, you will find a file called `problems.ipynb` with the ex
 
 This project and its repository comes with the necessary files to start working.
 
-1. Make a fork of [this repository](https://github.com/breatheco-de/calculus-and-algebra-problems-with-python) into your github account.
+1. Make a fork of [this repository](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python) into your github account.
 2. Open the recently created fork repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
 3. Once it has finished opening you can go ahead and open the `problems.ipynb` file and start solving each exercise inside the notebook.
 
