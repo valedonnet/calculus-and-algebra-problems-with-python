@@ -6,7 +6,7 @@ Dentro de este repositorio, encontrarás un archivo llamado `problems.ipynb` con
 
 ## 🌱  Cómo iniciar este proyecto
 
-La forma más fácil de comenzar a trabajar en este proyecto es usando Gitpod:
+Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
 
 1. Haz un fork de [este repositorio](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python) en tu cuenta de github.
 2. Abre el fork creado recientemente usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
