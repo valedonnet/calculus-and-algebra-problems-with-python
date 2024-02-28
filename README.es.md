@@ -4,7 +4,7 @@
 
 - Resolver los problemas utilizando cálculo, álgebra y Python.
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo iniciar este proyecto
 
 Sigue las siguientes instrucciones:
 
@@ -20,4 +20,4 @@ Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar 
 
 Una vez comiences a trabajar en el proyecto, verás un fichero `./notebook/problems.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno.
 
-> NOTA: Solución: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
+> Solución: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
