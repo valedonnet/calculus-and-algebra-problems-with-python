@@ -11,5 +11,5 @@
 	"duration" : 2,
     	"projectType": "project",
 	"autoStart": false,
-	"description" : "Use your numpy, pandas and matplotib skills to practice a little about calculus and algebra"
+	"description" : "Use your NumPy, Pandas, and Matplotlib skills to practice a little about calculus and algebra"
 }
